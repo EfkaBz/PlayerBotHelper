@@ -10,18 +10,18 @@ PlayerbotHelper is a lightweight UI wrapper for AzerothCore’s Playerbots modul
 Instead of typing long commands, just click buttons. 🎯
 
 # 📋 Requirements
-🌐 Server: AzerothCore with Playerbots module enabled
-💻 Client: World of Warcraft 3.3.5a (WotLK)
-🔑 Permissions: Your account must have access to Playerbots commands
+- 🌐 Server: AzerothCore with Playerbots module enabled
+- 💻 Client: World of Warcraft 3.3.5a (WotLK)
+- 🔑 Permissions: Your account must have access to Playerbots commands
 
 # ⭐ Key Features
-🧩 Class Panel → Click a class icon to summon a bot (.playerbots bot allclass <class>)
-🛠 Utility Bar → Quick actions (summon, autogear, follow, etc.)
-🧭 Minimap Button → Open/close the addon from a draggable button (position saved)
-🖱 Draggable Window → Move the UI anywhere by dragging the title bar
+- 🧩 Class Panel → Click a class icon to summon a bot (.playerbots bot allclass <class>)
+- 🛠 Utility Bar → Quick actions (summon, autogear, follow, etc.)
+- 🧭 Minimap Button → Open/close the addon from a draggable button (position saved)
+- 🖱 Draggable Window → Move the UI anywhere by dragging the title bar
 
 # ⚔️ Raid Builder (v1.3.0)
-🚀 Quickly create raid groups without command spam:
+- 🚀 Quickly create raid groups without command spam:
 1 🙋 Your Character → First slot is locked to avoid duplicate count
 2 🔘 Load Presets → Ready-made raids (20 / 25 / 40 players)
 3 🛡️ Role Picker → Choose your role (DPS / Healer / Tank)
@@ -33,16 +33,16 @@ Instead of typing long commands, just click buttons. 🎯
 ➡️ Toggle the main interface
 
 # 💾 Persistence
-📍 Minimap button position is saved
-🖼️ Window state is remembered
+- 📍 Minimap button position is saved
+- 🖼️ Window state is remembered
 
 # ⚠️ Notes & Limitations
-🔌 Requires Playerbots to be enabled on the server
-👑 Needs correct permissions (GM or configured role)
-⚙️ Behavior may vary depending on server config (bot caps, gear rules, etc.)
+- 🔌 Requires Playerbots to be enabled on the server
+- 👑 Needs correct permissions (GM or configured role)
+- ⚙️ Behavior may vary depending on server config (bot caps, gear rules, etc.)
 
 # 🐞 Troubleshooting
-❌ Nothing happens when clicking?
-✅ Check Playerbots is enabled on the server
-✅ Make sure your account has permission
-✅ Confirm you’re on WoW 3.3.5a + AzerothCore
+- ❌ Nothing happens when clicking?
+- ✅ Check Playerbots is enabled on the server
+- ✅ Make sure your account has permission
+- ✅ Confirm you’re on WoW 3.3.5a + AzerothCore
