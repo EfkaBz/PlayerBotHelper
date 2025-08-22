@@ -22,11 +22,11 @@ Instead of typing long commands, just click buttons. 🎯
 
 # ⚔️ Raid Builder (v1.3.0)
 - 🚀 Quickly create raid groups without command spam:
-1 🙋 Your Character → First slot is locked to avoid duplicate count
-2 🔘 Load Presets → Ready-made raids (20 / 25 / 40 players)
-3 🛡️ Role Picker → Choose your role (DPS / Healer / Tank)
-4🤖 Auto-Summon → Add the remaining bots (19 / 24 / 39) instantly
-5 ✅ Confirm → Addon sends the commands automatically
+- 🙋 Your Character → First slot is locked to avoid duplicate count
+- 🔘 Load Presets → Ready-made raids (20 / 25 / 40 players)
+- 🛡️ Role Picker → Choose your role (DPS / Healer / Tank)
+- 🤖 Auto-Summon → Add the remaining bots (19 / 24 / 39) instantly
+- ✅ Confirm → Addon sends the commands automatically
 
 # 💬 Slash Command
 /pbhelper
